@@ -5,7 +5,6 @@ import 'package:to_do_app/database/my_database.dart';
 import 'package:to_do_app/dialogeUtils.dart';
 import 'package:to_do_app/home/tasks_list/task_edit.dart';
 import 'package:to_do_app/my_theme.dart';
-
 import '../../database/Task.dart';
 
 class TaskWidget extends StatelessWidget {

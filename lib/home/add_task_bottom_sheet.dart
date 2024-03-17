@@ -6,7 +6,6 @@ import 'package:provider/provider.dart';
 import 'package:to_do_app/database/my_database.dart';
 import 'package:to_do_app/dialogeUtils.dart';
 import 'package:to_do_app/home/providers/settings_provider.dart';
-
 import '../database/Task.dart';
 import '../date_utils.dart';
 
