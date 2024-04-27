@@ -6,7 +6,6 @@ import 'package:provider/provider.dart';
 import 'package:to_do_app/Home/home_screen.dart';
 import 'package:to_do_app/home/providers/settings_provider.dart';
 import 'package:to_do_app/my_theme.dart';
-
 import 'firebase_options.dart';
 
 main() async {
